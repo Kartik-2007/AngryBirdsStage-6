@@ -1,2 +1,2 @@
-# AngryBirdsStage-6
-Arrays and gameStats
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
